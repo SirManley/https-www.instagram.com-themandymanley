@@ -1,0 +1,310 @@
+[19-Feb-2025 20:31:35 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
+[19-Feb-2025 20:32:36 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
+[19-Feb-2025 20:42:12 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:13 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:14 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:16 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:16 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:17 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:18 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:20 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:21 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:30 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogdescription" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:31 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogdescription" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:32 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogdescription" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:33 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogdescription" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:34 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogdescription" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogdescription" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:48 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:49 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:50 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:50 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:50 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:52 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:54 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:56 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[19-Feb-2025 20:42:57 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogname" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[20-Feb-2025 16:59:39 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogdescription" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222
+[20-Feb-2025 16:59:39 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "minimalistblog_stories_customize_partial_blogdescription" not found or invalid function name in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(324): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sir Ma...')
+#6 C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\index.php(17): require('C:\\Users\\Sir Ma...')
+#7 {main}
+  thrown in C:\Users\Sir Manley\Local Sites\mandymanleycom\app\public\wp-includes\customize\class-wp-customize-partial.php on line 222

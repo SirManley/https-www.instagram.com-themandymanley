@@ -1,0 +1,974 @@
+# Copyright (C) 2024 Mien Le
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tenzin News Magazine 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tenzin-news-magazine\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-22T09:44:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: tenzin-news-magazine\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Tenzin News Magazine"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://crthemes.com/theme/tenzin-news-magazine-wordpress-themes/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Tenzin News Magazine  is a responsive WordPress personal blog, influencer and newspaper theme for WordPress. The theme’s elegant and minimalistic look makes it an attractive choice for bloggers and writers who aim to have a user-friendly and modern website. It’s created to work well with any sort of niche but has designs particular for: food, lifestyle, fashion, travel, and review websites. The theme is fast and fully search engine optimized (SEO friendly). Check the theme documentation and detail at: https://crthemes.com/theme/tenzin-news-magazine-wordpress-themes/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Mien Le"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://crthemes.com/"
+msgstr ""
+
+#: 404.php:20
+#: tenzine-news-magazine/404.php:20
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+#: tenzine-news-magazine/404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+#: tenzine-news-magazine/404.php:25
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#: tenzine-news-magazine/comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#: tenzine-news-magazine/comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+#: tenzine-news-magazine/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:77
+#: tenzine-news-magazine/functions.php:77
+msgid "Primary"
+msgstr ""
+
+#: functions.php:82
+#: tenzine-news-magazine/functions.php:82
+msgid "Footer"
+msgstr ""
+
+#: functions.php:154
+#: tenzine-news-magazine/functions.php:154
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:156
+#: functions.php:168
+#: functions.php:182
+#: tenzine-news-magazine/functions.php:156
+#: tenzine-news-magazine/functions.php:168
+#: tenzine-news-magazine/functions.php:182
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:166
+#: tenzine-news-magazine/functions.php:166
+msgid "Sidebar E-Commerce"
+msgstr ""
+
+#. translators: %d: Footer Widget count.
+#: functions.php:180
+#: tenzine-news-magazine/functions.php:180
+msgid "Footer Widget"
+msgstr ""
+
+#: header.php:23
+#: tenzine-news-magazine/header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:267
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:267
+msgid "Browse:"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:268
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:268
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:269
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:269
+msgid "Home"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:270
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:270
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:271
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:271
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: inc/class-breadcrumb-trail.php:273
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:273
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:275
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:275
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:277
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:277
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/class-breadcrumb-trail.php:279
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:279
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/class-breadcrumb-trail.php:281
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:281
+msgid "Week %s"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:766
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:766
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:784
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:784
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:802
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:802
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:819
+#: inc/class-breadcrumb-trail.php:849
+#: inc/class-breadcrumb-trail.php:889
+#: inc/class-breadcrumb-trail.php:917
+#: inc/class-breadcrumb-trail.php:1271
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:819
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:849
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:889
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:917
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:1271
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:820
+#: inc/class-breadcrumb-trail.php:890
+#: inc/class-breadcrumb-trail.php:1276
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:820
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:890
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:1276
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:821
+#: inc/class-breadcrumb-trail.php:1281
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:821
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:1281
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:850
+#: tenzine-news-magazine/inc/class-breadcrumb-trail.php:850
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/template-functions.php:275
+#: tenzine-news-magazine/inc/template-functions.php:275
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:276
+#: tenzine-news-magazine/inc/template-functions.php:276
+msgid "Next"
+msgstr ""
+
+#: inc/template-functions.php:291
+#: tenzine-news-magazine/inc/template-functions.php:291
+msgid "Prev Post"
+msgstr ""
+
+#: inc/template-functions.php:292
+#: tenzine-news-magazine/inc/template-functions.php:292
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-functions.php:302
+#: tenzine-news-magazine/inc/template-functions.php:302
+msgid "You must supply a valid number."
+msgstr ""
+
+#: inc/template-functions.php:304
+#: tenzine-news-magazine/inc/template-functions.php:304
+msgid "Minimum no of words is 1"
+msgstr ""
+
+#: inc/template-functions.php:306
+#: tenzine-news-magazine/inc/template-functions.php:306
+msgid "Maximum no of words is 100"
+msgstr ""
+
+#. translators: 1: Year, 2: Site Title with home URL.
+#: inc/template-functions.php:320
+#: tenzine-news-magazine/inc/template-functions.php:320
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s"
+msgstr ""
+
+#: inc/template-functions.php:323
+#: tenzine-news-magazine/inc/template-functions.php:323
+msgid "by"
+msgstr ""
+
+#. translators: %s: WordPress.org URL
+#: inc/template-functions.php:325
+#: tenzine-news-magazine/inc/template-functions.php:325
+msgid " | Powered by %s"
+msgstr ""
+
+#. translators: %s: WordPress.org URL
+#: inc/template-functions.php:325
+#: tenzine-news-magazine/inc/template-functions.php:325
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:33
+#: tenzine-news-magazine/inc/template-tags.php:33
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:52
+#: tenzine-news-magazine/inc/template-tags.php:52
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:73
+#: inc/template-tags.php:112
+#: inc/template-tags.php:153
+#: tenzine-news-magazine/inc/template-tags.php:73
+#: tenzine-news-magazine/inc/template-tags.php:112
+#: tenzine-news-magazine/inc/template-tags.php:153
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:76
+#: inc/template-tags.php:155
+#: tenzine-news-magazine/inc/template-tags.php:76
+#: tenzine-news-magazine/inc/template-tags.php:155
+msgid "%1$s"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:85
+#: tenzine-news-magazine/inc/template-tags.php:85
+msgid ", Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:115
+#: tenzine-news-magazine/inc/template-tags.php:115
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:121
+#: tenzine-news-magazine/inc/template-tags.php:121
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:124
+#: tenzine-news-magazine/inc/template-tags.php:124
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:133
+#: template-parts/content-page.php:37
+#: template-parts/content-woo.php:37
+#: tenzine-news-magazine/inc/template-tags.php:133
+#: tenzine-news-magazine/template-parts/content-page.php:37
+#: tenzine-news-magazine/template-parts/content-woo.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:386
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:827
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:387
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:388
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:934
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+#: tenzine-news-magazine/inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:62
+#: tenzine-news-magazine/inc/tgmpa/recommended-plugins.php:62
+msgid "CRT Manage"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:67
+#: tenzine-news-magazine/inc/tgmpa/recommended-plugins.php:73
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:72
+#: tenzine-news-magazine/inc/tgmpa/recommended-plugins.php:78
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:77
+#: tenzine-news-magazine/inc/tgmpa/recommended-plugins.php:83
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:109
+#: tenzine-news-magazine/inc/tgmpa/recommended-plugins.php:115
+msgid "You can buy the premium version, to be able to use blocks, one click demo import ... here: "
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:110
+#: tenzine-news-magazine/inc/tgmpa/recommended-plugins.php:116
+msgid "Demo: "
+msgstr ""
+
+#: inc/woocommerce.php:72
+#: tenzine-news-magazine/inc/woocommerce.php:72
+msgid "Single Page"
+msgstr ""
+
+#: inc/woocommerce.php:85
+#: tenzine-news-magazine/inc/woocommerce.php:85
+msgid "Display tab description"
+msgstr ""
+
+#: inc/woocommerce.php:99
+#: tenzine-news-magazine/inc/woocommerce.php:99
+msgid "Display tab additional information"
+msgstr ""
+
+#: inc/woocommerce.php:113
+#: tenzine-news-magazine/inc/woocommerce.php:113
+msgid "Display tab reviews"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:22
+#: tenzine-news-magazine/search.php:22
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:52
+#: tenzine-news-magazine/single.php:52
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/content-none.php:14
+#: tenzine-news-magazine/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#: tenzine-news-magazine/template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+#: tenzine-news-magazine/template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+#: tenzine-news-magazine/template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23
+#: template-parts/content-single.php:31
+#: template-parts/content-woo.php:23
+#: tenzine-news-magazine/template-parts/content-page.php:23
+#: tenzine-news-magazine/template-parts/content-single.php:31
+#: tenzine-news-magazine/template-parts/content-woo.php:23
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:18
+#: tenzine-news-magazine/template-parts/content-single.php:18
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/header-v1.php:15
+#: template-parts/header-v1.php:51
+#: tenzine-news-magazine/template-parts/header-v1.php:15
+#: tenzine-news-magazine/template-parts/header-v1.php:51
+msgid "Social"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Woocommerce"
+msgstr ""
+
+#: tenzine-news-magazine/inc/tgmpa/recommended-plugins.php:67
+msgid "Elementor"
+msgstr ""
+
+#: tenzine-news-magazine/woocommerce/content-product-item.php:22
+#: woocommerce/content-product-item.php:22
+msgid "View Detail"
+msgstr ""
+
+#: tenzine-news-magazine/woocommerce/single-product/product-image.php:46
+#: woocommerce/single-product/product-image.php:46
+msgid "Awaiting product image"
+msgstr ""
